@@ -1,15 +1,62 @@
 <h1 align="center">Hi 👋, I'm Stavros Theocharis</h1>
-<h3 align="center">An applied data scientist coming from the field of economics. My master's degree is based on applied economics and data analysis. I have experience in end-2-end data science projects and have worked in both commercial and research fields. My current role is "Head of data science & innovation" in Squaredev.</h3>
 
-- 📫 How to reach me **stavrostheocharis@yahoo.gr**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ stavros-theocharis-aab8ba114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ stavros-theocharis-aab8ba114" height="30" width="40" /></a>
-<a href="https://medium.com/@stavrostheocharis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stavrostheocharis" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+👨‍💼 **Stavros Theocharis** - Head of Artificial Intelligence | Co-organizer, Patras AI Meetup | Medium Writer
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stavrostheocharis&show_icons=true&locale=en&layout=compact" alt="stavrostheocharis" /></p>
+As an accomplished professional leading Innovation & Data Science, I am passionate about advancing the field of Artificial Intelligence. My journey has encompassed roles in research, project management, and technical implementation, leading diverse teams to create innovative solutions in AI, particularly in European Union initiatives and commercial ventures.
+
+My focus over the past few years has been to merge innovation with data science, crafting impactful strategies and pioneering in AI's evolving landscape.
+
+---
+
+## 💡 Professional Highlights
+
+- **AI Leadership:** Spearheading teams and strategies in AI and data science.
+- **Diverse Experience:** Bridging research, innovation, and practical application in AI.
+- **Innovation and Research:** Leading the charge in applied AI research and cutting-edge solutions.
+
+---
+
+## 🛠 Technical Expertise
+
+- **Data Pipelines:** Proficiency in Kedro, Unit tests, FastAPI, Docker.
+- **Machine Learning & AI:** Expertise in TensorFlow, PyTorch, Timeseries models, Computer Vision models
+- **Data Analysis:** Skilled in Pandas, Numpy, Scikit-learn.
+- **MLOps:** Implementing MLflow procedures.
+- **Explainable AI:** Experienced with Lime, Shap, GradCam, LRP.
+- **Computer Vision & Segmentation:** Advanced skills in image processing and analysis.
+- **Language Model Systems (LLMs):** Developing and implementing cutting-edge language models.
+
+---
+
+## 🌟 Key Projects
+
+### European Union Initiatives and Commercial Ventures
+- **Contributions:**
+  - Coordinating advanced research and development tasks.
+  - Implementing sentiment analysis and anomaly detection systems.
+  - Developing AI models for healthcare and fintech applications.
+  - Leading computer vision and segmentation projects.
+  - Innovating in language model systems for various applications.
+
+---
+
+## 🌐 Online Presence
+
+- **LinkedIn:** [Stavros Theocharis](https://linkedin.com/in/stavros-theocharis-ai)
+- **Medium:** [Stavros Theocharis](https://medium.com/@stavrostheocharis)
+
+---
+
+## 📚 Skills
+
+- **AI & Data Science:** Deep learning, Predictive modeling, Data mining, Computer vision.
+- **Project Management:** Team leadership, Strategic planning, Agile methodologies.
+- **Data Engineering:** Proficient in Docker, MongoDB, SQL.
+- **Programming:** Skilled in PyTorch, Tensorflow, OpenCV, Streamlit, Scikit-learn, FastAPI.
+
+---
+
